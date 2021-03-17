@@ -11,10 +11,11 @@ The proposed method uses RandomForestRegression and Gradient Boosting techniques
 
 
 2) Problem Statement: A new fast-food chain is seeing rapid expansion over the past couple of years. They are now trying to optimize their supply chain to ensure that there are no shortages of ingredients. For this, they’ve tasked the data science team to come up with a model that could predict the output of each food processing farm over the next few years. These predictions could further increase the efficiency of their current supply chain management systems.
+ 
  Objectives: 
-1. Explore the data and engineer new features.
-2. Predict the yield for each farm during the given timestamps.
-3. Given the forecasted demand for the next few months for a particular ingredient, device a strategy to source it, creating a strategy to source ‘ing_w’ ingredient type.
+a) Explore the data and engineer new features.
+b) Predict the yield for each farm during the given timestamps.
+c) Given the forecasted demand for the next few months for a particular ingredient, device a strategy to source it, creating a strategy to source ‘ing_w’ ingredient type.
 
 
 3) Methodology: Includes the process for carrying out the research and procedure for     doing things, which Includes
